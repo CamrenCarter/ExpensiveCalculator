@@ -1,6 +1,7 @@
 //Expensive Calculator
 //3/27/2018
-//Author: John Brosius
+//Author: Camren Carter
+//Date: 4/18/2020
 
 
 #include<iostream>
